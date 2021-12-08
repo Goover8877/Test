@@ -1,0 +1,4 @@
+﻿  exampleprogram.cpp
+C:\Users\Светулечек\source\repos\OpenGLExample\OpenGLExample\exampleprogram.cpp(9,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Светулечек\source\repos\OpenGLExample\OpenGLExample\exampleprogram.cpp(151,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  OpenGLExample.vcxproj -> C:\Users\Светулечек\source\repos\OpenGLExample\Debug\OpenGLExample.exe
